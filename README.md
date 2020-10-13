@@ -1,3 +1,3 @@
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/MariaRoos/my-first-repo)
+# My very first web page
 
-# my-first-repo
+Welcome! [Code Institute](https://codeinstitute.net)
